@@ -1,9 +1,3 @@
-/* Final: By Cassandra Gayer and Sarang Solhdoost
-06/24/2024
-Edited: 06/27/2024
-Data needed: 
-*/
-
 /* start rtf file */
 ods rtf startpage = never file = '/home/u63892903/Assignments/FinalSAS.rtf';
 
